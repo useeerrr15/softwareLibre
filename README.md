@@ -17,7 +17,7 @@ Una licencia de software es un contrato entre el licenciante (autor/titular de l
 
 ## Tipos de licencia de software
 
-    Licencia de software de código cerrado
+    *Licencia de software de código cerrado
     
  Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa.
 
