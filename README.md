@@ -17,7 +17,7 @@ Una licencia de software es un contrato entre el licenciante (autor/titular de l
 
 ## Tipos de licencia de software
 
-    *Licencia de software de código cerrado
+    Licencia de software de código cerrado
     
  Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa.
 
@@ -40,14 +40,11 @@ Se puede crear una obra derivada sin que esta tenga obligación de protección a
     PHP License v.3.0
     VMS License.
 
-Licencia de software de código abierto robustas
-
-Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
 Licencias de software de código abierto robustas fuertes
 
 Las licencias de software de código abierto robustas fuertes o con copyleft fuerte, contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original.
 
-Entre las licencias de esta categoría están:
+Entre las licencias de esta categoría están: 
 
     Common Public License v.1.0.
     GNU General Public License v.2.0.
@@ -63,6 +60,7 @@ Licencias de software de código abierto robustas débiles
 
 Las licencias de software de código abierto robustas débiles, con copyleft débil/suave o híbridas, contienen una cláusula que obliga a que las modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original, pero que las obras derivadas que se puedan realizar de él puedan ser licenciadas bajo otros términos y condiciones distintas.
 
+Entre las licencias de esta categoría están: 
 
     GNU Lesser General Public License v.2.1.
     Mozilla Public License
