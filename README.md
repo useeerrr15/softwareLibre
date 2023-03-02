@@ -13,6 +13,30 @@ El software libre es un software cuyo código fuente puede ser estudiado, modifi
 
 ## Licencia de software
 
-Una licencia de software es un contrato entre el licenciante (autor/titular de los derechos de explotación/distribución) y el licenciatario2​ (usuario consumidor, profesional o empresa) del programa informático, para utilizarlo cumpliendo una serie de términos y condiciones establecidas dentro de sus cláusulas,3​ es decir, es un conjunto de permisos que un desarrollador le puede otorgar a un usuario en los que tiene la posibilidad de distribuir, usar o modificar el producto bajo una licencia determinada.
+Una licencia de software es un contrato entre el licenciante (autor/titular de los derechos de explotación/distribución) y el licenciatario (usuario consumidor, profesional o empresa) del programa informático, para utilizarlo cumpliendo una serie de términos y condiciones establecidas dentro de sus cláusulas, es decir, es un conjunto de permisos que un desarrollador le puede otorgar a un usuario en los que tiene la posibilidad de distribuir, usar o modificar el producto bajo una licencia determinada.
 
 ## Tipos de licencia de software
+
+ Licencia de software de código abierto permisivas
+
+    Academic Free License v.1.2.
+    Apache Software License v.1.1
+    Artistic License v.2.0
+    Attribution Assurance license.
+    BSD License.
+    MIT License.
+    University of Illinois/NCSA Open Source License.
+    W3C Software Notice and License.
+    Zope Public License v.2.0
+    Open LDAP License v.2.7
+    Perl License.
+    Academic Free License v.3.0
+
+    PHP License v.3.0
+    VMS License.
+    
+    *Licencia de software de código cerrado*
+    
+ Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa.
+
+
